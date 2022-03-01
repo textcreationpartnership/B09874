@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A representation to King and Parliament, of some of the unparralleld sufferings of the people of the Lord called Quakers, in New England together with the remarkable judgments of God upon sundry of their persecutors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09874</idno>
+            <idno type="STC">Wing R1109A</idno>
+            <idno type="STC">ESTC R224335</idno>
+            <idno type="EEBO-CITATION">64551678</idno>
+            <idno type="OCLC">ocm 64551678</idno>
+            <idno type="VID">184763</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184763)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A representation to King and Parliament, of some of the unparralleld sufferings of the people of the Lord called Quakers, in New England together with the remarkable judgments of God upon sundry of their persecutors.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Liberty of conscience --  Controversial literature --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:184763:1"/>
+            <head>A Repreſentation to King and Parliament, of ſome of the Unparralleld Sufferings of the People of the Lord, called <hi>Quakers,</hi> in <hi>New-England.</hi> Together with the Remarkable Judgments of God upon ſundry of their Perſecutors.</head>
+            <p>IN theſe few Lines; O KING; Thou and thy Parliament, may ſee the continu<g ref="char:EOLhyphen"/>ed Sufferings of thy faithful and loving Subjects, under the cruel and bloody hands of the Prieſts and Rulers, in <hi>New-England,</hi> who in the dayes of <hi>O. C.</hi> (the time of thy Suffering) as if countenanced and Commiſſionated by him, did, for divers years, moſt barbarouſly ſpoil and ruine the Goods of thy Innocent Subjects there, halling them out of their Habitations to Priſon, far from their Families and little Ones, cruelly torturing their Bodies with Whipps, and pitched Ropes, and locking up neck and heels in Irons many hours, with famiſhings near unto death, being without pitty to the aged Parents, or to their help<g ref="char:EOLhyphen"/>leſs Children; Chaining to a Log of Timber Night and Day, a long and very cold Win<g ref="char:EOLhyphen"/>ter; dragging Men along by the hair of their Heads, and the tender Women (as they were on their knees in Prayer) dragg'd out of the Houſe by the hands, with their faces towards the Earth, over Stumps, and old Trees, through very deep froſt and ſnow, to Priſon near a Mile; and cauſing the Innocent to be hanged up naked by the hands, with a logg hanged to the feet, and the body cruelly beaten by the hands of a ſtrong Negro with Cords; one burned in the Hand, and in his Mouth bound a great Key; others their Ears part cut off; together with Baniſhing Fathers, Mothers and Children, and offering to ſend their little Ones thouſands of miles from their Native Country and Fathers Houſe, to be ſold for Servants or Bond-ſlaves; and laſt of all, in the height of the ſpirit of the wicked one, the ſpirit of madneſs, blindneſs, blood and murther, they ſpared not, but cruelly put to death the Servants of the Living God. And now, O King, ſince the very day the Lord brought thee into this Land again, and gave unto thee thy Regal Power, have they in thy Name, made ſtrange and cruel havock of thy true Subjects, in putting to Death and Baniſhing; and in thy Name with many torturing Whippings of Old and Young, at Poſts, and at wheels of great Guns, and at Carts Tails, dragging the naked Bodies of Parents and Children through divers long Towns, through the dirt &amp; filth of their Chanels and Cart-ways; and in thy Name commanding one Friend and Brother to help Impriſon the other; yea, in thy Name they have lately preſt the Son to help to force his tender Father and Mother to Goal, ſundry miles, in the extremity of Winter ſeaſon, to the hazzard of their Lives; and ſuch as refuſed to obey their Unnatural and Abominable Commands, they have fined at their Courts; and thus from Court to Court do theſe Monſters of Men, in thy Name, Fine and break open the Houſes of the <hi>Quakers,</hi> and Rob them of their Goods, and take away that they ſhould eat in, and that they ſhould drink in, yea the very Cloathes from their Backs in Winter, and the Bed they ſhould lye on, while they keep the Body ſundry miles off in Priſon, driving Husbands &amp; Wives divers miles for Priſon, in times of great Froſt and Snow, keeping them cloſe Priſoners in a very cold Room, to the endangering of their Lives, and to the ruine of their Families, had not the Lord preſerved. All this, and much more, too tedious to mention at this time, have they done to the ſervants of the Lord in <hi>New-England</hi> in thy Name; ſaying, that <hi>Thou owneſt their doings, and eſteemeſt their Laws as thy Laws;</hi> And theſe hard things have the Servants of the Lord patiently ſuffered, and ſuſtained at their hands, for no other cauſe but for their faithful obedience to the Spirit of the Lord in their hearts, which Spirit of Holineſs teacheth them, That <hi>Forced Worſhips</hi> and <hi>Worſhippers</hi> are <hi>both Abomination to the Lord.</hi> Theſe few Lines are written not from any deſire of the leaſt Revenge from thy hand upon them, but that thou mayeſt know it, and make known thy diſlike of their wickedneſs, that ſo the blood of the Innocent there, if poſſible, might not be laid to your charge in the terrible Day of the Lord, in which both High and Low muſt come to Judgement, and receive according to their Deeds done in the Body, in which day the Lord will make known (in the ſight of all his Enemies) his mighty Power for the ſaving of his beloved Ones, and for the delivering and helping of them, who had no helper in the Earth.</p>
+         </div>
+         <div type="account">
+            <head>A Brief Relation of the Eminent Hand and Judgments of the Lord upon ſome of the Rulers, Prieſts and People of <hi>New-England,</hi> who were of them that Perſecuted the People of the Lord, called <hi>Quakers,</hi> there.</head>
+            <p>OLD <hi>John Endicot</hi> Governour, that <hi>Nero</hi>-like unjuſt Judge of the Innocent, who in his mad <hi>Nebuchadnezzar</hi>-like ſpirit, threatned and endeavoured to weary out and to deſtroy the Servants of the Moſt High, and to root out their very Name from amongſt them. He with his Hangman, that Murderer, who together had imbrued their hands in the blood of the Innocent Lambs of the Living God, were both by the hands of the Lord hewed down &amp; at one time laid on their death-beds, ſo that ſome did ſay, <hi>Who would have thought the Head and Tail ſhould go ſo near together?</hi> So the Lord cut down <hi>Endicot,</hi> Root and Branch, and his Hangman its ſaid died in great horror of Mind, and torment of Body. And this is according to the Word of the Lord fore-ſpoken by the mouth of his Servants concern<g ref="char:EOLhyphen"/>ing them.</p>
+            <p>Another Eminent Perſecutor, (who had a hand in Judging and Murthering of the Inno<g ref="char:EOLhyphen"/>cent) <hi>Humphery Atherton,</hi> their Major General, who ſitting to Judge the Juſt, he and his Brethren having ſent out <hi>Mary Dyer</hi> to be murdered, and tydings being brought to the Bench that ſhe was turned off the Gallows, he ſaid to the ſervants of the Lord, Priſoners at the Bar, <hi>That Miſtreſs</hi> Dyer <hi>did hang for a Flag for them to take warning by;</hi> and <hi>that the Quakers did often tell them, That the Judgements of the Lord would come upon them, but the Judgements of the Lord are not come upon us yet.</hi> But the Juſt Hand of the Lord met with him in his Jollity and Pomp, as he was riding home from his Play-fellows in <hi>Boſton,</hi> and near the Place where they uſed to finiſh their Journey in Whipping and dragging the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> at a Carts-tail out of <hi>Boſton,</hi> his Horſe gave him ſuch a deadly throw, that it's ſaid, <hi>He never ſpake word after his fall;</hi> but his Eyes ſwelled, as ſtarted out of his Head, and as it were Blood and Brains came out of his Noſtrils and Ears, and his Tongue in a gaſtly man<g ref="char:EOLhyphen"/>ner hanging out of his mouth; <hi>A Flagg indeed was he for Blood-guilty Men to be warned by;</hi> according to the word of the Lord, fore-told by the mouth of his Servants.</p>
+            <p>
+               <hi>John Danford,</hi> a Member of their Church, and Captain of their Caſtle by <hi>Boſton,</hi> being laid (in the heat of the day) upon his Bed, the Hand of the Lord in a ſtrange manner, with a crack of Thunder, and flaſh of Lightning, in a moment ſmote him to death; ſo it's teſtified, he never ſpake more.</p>
+            <p>On that day the Rulers and Prieſts of <hi>Boſton</hi> had agreed to mingle their Sacrifice with the Blood and Lives of the Innocent, the Perſecutors returning, and rejoycing in the mur<g ref="char:EOLhyphen"/>dering and hanging of <hi>William Robinſon</hi> and <hi>Marmaduke Stevenſon,</hi> as ſundry of them were paſſing over a great Draw-Bridge, it ſuddainly brake down in pieces with them, and divers of them were wounded and bruiſed with the weighty fall thereof; and one or two of them, who ſeemed to joy in the Death of the Innocent; its ſaid, That the Bones of their Armes, with Thighs and other parts of their Bodies, were broken to pieces, and after a few days torment of Body, and rotting alive, died: And in this alſo was the Word of the Lord fulfilled, ſpoken to the Bench by the mouth of that faithful Martyr, who ſaid, <hi>Take heed ye Rulers what ye do, and be warned before it be too late, and know, that in that day you put us to Death, ſhall the Judgements of God come upon this place.</hi>
+            </p>
+            <p>Old <hi>Thomas Wiggin</hi> Magiſtrate, a bloody Perſecutor, who was deeply engaged in the Sufferings, and in the taking away of the Lives of the Martyrs of Jeſus, who often without bowels of pitty, would ſhed the Blood and devour the Goods of the Innocent; him alſo hath the Hand of the Lord cut down, and his Children may come to want: And this alſo is according to the Word of the Lord, by the mouthes of his Servants to him.</p>
+            <p>
+               <hi>James Oliver,</hi> that Beaſtly, and bloody ſpirited Creature, who as one implacable, unmerci<g ref="char:EOLhyphen"/>ful, without bowels of common natural affection, who was ſo ſwift to ſhed Innocent blood, that he ſtruck down the Servant of the Lord, <hi>William Robiſon,</hi> as he was taking him out of Priſon to hang him. Whoſe inhumane cruelty, bloodſhed, and murderous ſpirit, the Righteous God hath in Remembrance, who was fierce to take away the Lives of the Righteous; the blaſting hand of the Lord is riſen up, againſt and over him; according to the Word of the Lord ſpoken by his faithful Servants, whom he helped to hang on a Tree.</p>
+            <p>
+               <hi>John Webb,</hi> that proud Perſecutor, whom the Lord hath laid waſt, who with a Body of Men in Armes, led forth <hi>Mary Dier</hi> to be murdered and hanged: 'Tis ſaid, as he was buſie in killing a Whale, or great Fiſh, was ſuddenly after a ſtrange manner carried into the Sea and drowned; and here was a remarkable Hand alſo upon this Perſecutor, according to the Word of the Lord ſpoken by the mouth of his Servants.</p>
+            <p>Captain <hi>Johnſon,</hi> who led forth the Servant of the Lord, <hi>William Ledra,</hi> to be murdered and hanged, compaſſing him about with Men of War, with Swords, Guns, and Drums; the Juſt Hand of the Lord, for his bloody act, hath fallen upon him alſo, for he is as a man unman'd and bereaft of his wonted underſtanding, and ſo ſottiſh, that his Brethren, as its ſaid, have degraded him; and this is according to the Word of the Lord, ſpoken by his Servants concerning him.</p>
+            <p>
+               <hi>Marſhal Brown</hi> of <hi>Ipſwich,</hi> who Perſecuted the Servants of the Lord, and unrighteouſly took away their Goods; ſoon after the Lord caſt him upon the bed of languiſhing, where for a time, it is teſtified, he lay in great horror of Conſcience, and torment of Body, and ſo departed this Life; and this is according to the Word of the Lord by the mouth of his faithful Witneſſes.</p>
+            <p>
+               <hi>Samuel Archer,</hi> Marſhal in <hi>Salem,</hi> who was of their Church-fellowſhip, he had often Robbed and ſpoiled the Goods of the People called <hi>Quakers,</hi> to pay his Maſters Reckonings at the Taverns; he was ſuddenly cut off, and is come to nought, and his remembrance rotts; according to the Word of the Lord againſt ſuch as do reſiſt the Holy One willfully.</p>
+            <p>
+               <hi>James Underwood,</hi> a wicked Perſecuting Conſtable who made it his work to diſturbe the People of God in their holy waitings on the Lord, who would Preſs one Friend to help him to lead another as Priſoner; after this his wickedneſs againſt the Lord, and his People, though he had a conſider<g ref="char:EOLhyphen"/>able Eſtate, yet the hand of the Lord being againſt him, he came to nought; this alſo is accord<g ref="char:EOLhyphen"/>ing to the Word of the Lord which his Servants teſtified concerning Perſecutors.</p>
+            <p>An Eminent hand of Gods diſpleaſure upon ſome of the Prieſts alſo: <hi>John Norton,</hi> Chief Prieſt in <hi>Boſton,</hi> and chief in ſtirring up the Rulers to Murder, Hang and Perſecute, and to take away the Lives of the Innocent, He by the immediate power of the Lord was ſmitten, and as he was ſinking down, by the fire-ſide, being under Juſt Judgment, he confeſſed the hand of the Lord was upon him, and ſo died; and the Word of the Lord, by the mouth of his Servant, whom he ſtirred up the Rulers to put to death, was fulfilled upon him.</p>
+            <p>Old <hi>Edward Norris,</hi> Prieſt in <hi>Salem,</hi> he ſtirring up the Rulers and People there to madneſs, ſaying, <hi>What was done to the</hi> Quakers, <hi>was not Perſecution but Proſecution;</hi> as he was vindicating his bloody Principle, was ſuddenly and ſtrangely ſmitten dumb in his Pulpit, and after a while died.</p>
+            <p>Old Prieſt <hi>Wilſon,</hi> who reviled the Servants of the Lord as they were led forth to be put to death, was alſo by the Hand of the Lord ſwept away.</p>
+            <p>
+               <hi>Timothy Dolton,</hi> Prieſt of <hi>Hampton,</hi> he hearing it certified, that <hi>The Light within, was the Light of Christ;</hi> Cried out, <hi>Oh horrible blaſphemy!</hi> He ſoon after dies.</p>
+            <p>Prieſt <hi>Mitchel</hi> of <hi>Cambridge,</hi> who lately ſtirred up the Rulers to Perſecution and Madneſs, ſoon after was ſmitten down by the hand of the Lord; and it's teſtified, <hi>That his very Tongue, while he was alive, turned exceeding black in his mouth, and ſoon after he died.</hi>
+            </p>
+            <p>Sundry others, not here mentioned, hath the hand of the Lord viſited with Judgments upon themſelves, &amp; upon the fruit of their Bodies, taking away the Lives of divers of their Firſt-born by unuſual deaths; and from year to year to this day, ſince they murdered the Servants of the Lord, hath the hand of Juſtice blaſted their Corn in their Fields; for when their fields of Wheat are in the Ear, and near to Bloſſome, then is it in a ſtrange manner ſmitten with Death at the Root; and when the Husbandman ſeeth the Curſe or Blaſt upon it, haſteth to mow it down, while it is green, for Fodder; but its loathſome to the Beaſts of the field, ſo that they care not to eat it. This is remarkable, and a lively Figure of <hi>New-Englands</hi> Abominable Profeſſion, and a true token of Gods diſpleaſure againſt them; according to the Word of the Lord ſpoken to them by the mouth of his Servants whom they put to death.</p>
+            <p>And now hath the Lord, in Bloody <hi>Boſton,</hi> poured out a ſore Plague, even a rent between Ru<g ref="char:EOLhyphen"/>lers, Prieſts and People; ſo that in the bitterneſs of their envious hearts, they are riſen up one a<g ref="char:EOLhyphen"/>gainſt another, to the endangering of daſhing their <hi>Babel</hi> to pieces: And this they know was foretold, and certified to and amongſt them, by Word and Signs, by the Lords Servants, who teſtified in the Name and Spirit of Truth, <hi>That as a Potters Veſſel, ſo ſhould they be broken never to be joyned together any more.</hi> Theſe things are written not in Malice or Prejudice to any of the forementioned Perſecutors, but in tender love to all Rulers, Prieſts and People, that they in the fear of the Lord may be warned by them, to take heed how they open their mouths, or lift up their hands againſt the Innocent, for God is on their ſide; and although ſome, to their own de<g ref="char:EOLhyphen"/>ſtruction, have been ſuffered to perſecute and put ſome of the Bodies of the Children of the Living God to death, yet againſt the Life and Power of the Lord in them, they nor their weapons ſhall never proſper, the mouth of the Lord hath ſpoken it. And as for them that remain of the dark Perſecuting Prieſts, Rulers and People in <hi>New-England,</hi> whoſe hands have been dyed in the Blood and lives of the Innocent, Oh that there were in them an heart truly ſenſible of their great wick<g ref="char:EOLhyphen"/>edneſs againſt the Lord, and againſt his People, that ſo they might be truly humbled before the Lord, and ſo come to be delivered from the wrath to come, which will moſt aſſuredly overcome and deſtroy all them that fight againſt the Lord.</p>
+            <p>Oh <hi>New-England, New-England,</hi> how can the tender-hearted, (whom thou haſt moſt cruelly Perſecuted and deſpitefully uſed) in the ſence of thy ſad ſtate, forbear to take up a Lamentation for thee; who ſeemed beautiful in thy beginning, and lovely waſt thou whilſt in thy integrity, which was but for a moment, or as the early dew, for thy day was eclipſed in the morning, and thou ſoon went a whoring from the Guide of thy youth, and ſo thou becameſt as a monſtrous woman in his ſight, and now thou art unto him as <hi>Sodom,</hi> and thy off-ſpring as <hi>Gomorrah,</hi> who periſhed in the morning; for thy Wickedneſs is as <hi>Scarlet,</hi> and thy Iniquities as <hi>Crimſon</hi> before the Lord. Let the ears of Kindred, Nations and People, that hear of thy <hi>horrible Apoſtacy,</hi> tingle; for thou ſoon grew'ſt great, and ſaid'ſt in thy heart, <hi>I am as Queen of all Nations;</hi> and in the greatneſs of thy Pride, as thou attempted'ſt to climb up high, even into the Throne of God, How art thou fallen, oh thou untimely daughter of <hi>Babylon!</hi> Let all People and Profeſſors who hear of thy deadly fall, fear, and tremble, and dread the Living God, and with ſpeed come out of their <hi>empty Forms,</hi> the <hi>Chambers of Death,</hi> and come into the <hi>mighty Power of the Endleſs Life of God,</hi> that in it you may eſcape the wrath of the Almighty, which is coming upon the World, which lies in wickedneſs. Wo unto you ye Rulers and Hierling Prieſts of <hi>New-England,</hi> for the Lord hath found you in the way of <hi>Cain,</hi> who have drunk the blood of Martyrs and Saints, and mingled it with your Sacrifices, and in the filthy error of <hi>Balaam,</hi> Perſecuting and Killing the Juſt. Wo unto you Rulers and Prieſts of <hi>New-England,</hi> who have taken counſel to deſtroy the Work of the Lord, and have laboured to ſuppreſs the Sun in its riſing: Ye are as <hi>Pharaoh</hi> and his <hi>Magi<g ref="char:EOLhyphen"/>cians;</hi> for you have withſtood him who is come in his mighty Power, to lead <hi>Iſrael</hi> out of <hi>Ae<g ref="char:EOLhyphen"/>gypts</hi> darkneſs and houſe of Bondage. Wo unto you Prieſts and Rulers of <hi>New-England,</hi> who have cut off the Life of the Prophets from amongſt their Brethren, and have cruelly entreated the Children of the Lord, whom he hath ſent, and raiſed up amongſt you: You have ſlain the Lords Worthies upon your High Places; therefore upon your Mountain comes no Dew nor Rain, and your Houſe is left deſolate, be<g ref="char:EOLhyphen"/>cauſe the Lord is departed from it, for in it is found the Blood of the Martyrs of Jeſus; and there it is you have killed the tender Lambs in the Boſom, and the Royal and lovely Babes as they were Sucking the Breſts of their Mother. <hi>For theſe things ſake will I ariſe and plead with you, O ye the greateſt of mine Enemies, ſaith the Almighty,</hi> who in the height of your Pride boaſted, and ſaid, <hi>There was not ſuch another Church in the World, as the Church at</hi> Boſton: But your bloody hands have made you manifeſt to be the worſt, among them called Churches in the whole World.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1669.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
